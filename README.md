@@ -1,4 +1,4 @@
-# Camera-Viewer-Project
+# Camera Viewer Project
 
 Simple camera viewer application.
 
